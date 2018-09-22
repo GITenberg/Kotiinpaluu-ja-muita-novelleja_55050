@@ -1,5 +1,5 @@
 _repo: Kotiinpaluu-ja-muita-novelleja_55050
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Ahma, Ilmari
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1933
     gutenberg_agent_id: '48168'
     url: http://www.gutenberg.org/2009/agents/48168
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schildt, Runar
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '48167'
     url: http://www.gutenberg.org/2009/agents/48167
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55050#Kotiinpaluu-ja-muita-novelleja
 gutenberg_issued: '2017-07-05'
 gutenberg_type: Text
 identifiers:
